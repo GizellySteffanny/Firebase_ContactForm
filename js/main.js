@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyA5ZT_E6DRgc2n7u_XgZ4nqFiYPvuxMO-U",
-    authDomain: "contact-form-79437.firebaseapp.com",
-    databaseURL: "https://contact-form-79437.firebaseio.com",
-    projectId: "contact-form-79437",
-    storageBucket: "contact-form-79437.appspot.com",
-    messagingSenderId: "469973945816"
+    apiKey: "00000000000000000000000000000000000000000000000",
+    authDomain: "0000000000000000000000000000000000000000000000",
+    databaseURL: "000000000000000000000000000000000000000",
+    projectId: "000000000000000000000000000000000000",
+    storageBucket: "00000000000000000000000000000000000000000000000",
+    messagingSenderId: "000000000000000000000000"
   };
 firebase.initializeApp(config);
 
